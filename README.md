@@ -1,14 +1,21 @@
 # PhonePe-pulse-visualization
 
 Table of contents
->> About The Project
->> Getting Started
->> Prerequisites
->> Installation
->> Usage
->> Steps
->> Run
->> Skills Covered
+> About The Project
+
+> Getting Started
+
+> Prerequisites
+
+> Installation
+
+> Usage
+
+> Steps
+
+> Run
+
+> Skills Covered
 
 
 # Concerning the project
